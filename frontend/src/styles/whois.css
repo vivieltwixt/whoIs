@@ -1,0 +1,26 @@
+.pageTitle {
+  margin: auto;
+  width: 50%;
+  padding-top: 50px;
+  padding-bottom: 75px;
+  text-align: center;
+  font-size: x-large;
+}
+
+.pageDescription {
+  margin: auto;
+  width: 100%;
+  font-size: medium;
+}
+
+
+.form {
+  margin: auto;
+  width: 50%;
+  padding: 5px;
+  text-align: center;
+}
+
+.data {
+  align-items: center;
+}
